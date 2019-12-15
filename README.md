@@ -15,6 +15,6 @@ fossil_falls.h: music data (pitch and durations) for a two-voice arrangement of 
 
 # Music Files:
 
-fossil_falls.mscx: Musescore (https://musescore.org/en) uncompressed score file for "Fossil Falls"
+fossil_falls.mscx: Musescore (https://musescore.org/en) uncompressed score file for "Fossil Falls" from Super Mario Odyssey (composed by Naoto Kubo, arranged for two-part square waves by mit-mit)
 
 mscx2data.py: Python script used to convert a two-voice musescore file into music data embedded in a header file that can be imported into arduino
